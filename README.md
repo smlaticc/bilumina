@@ -26,19 +26,20 @@ Aplikacija je narejena brez ogrodij (frameworkov) in brez Composerja. Uporabljen
 
 
 ## Struktura projekta
+
 public/
--index.php
+- index.php
 
 src/
--Services/
---ApiClient.php
---Cache.php
---GroupService.php
---ItemService.php
--Utils/
---Formatter.php
---Html.php
---config.php
+- Services/
+  - ApiClient.php
+  - Cache.php
+  - GroupService.php
+  - ItemService.php
+- Utils/
+  - Formatter.php
+  - Html.php
+- config.php
 
 ## Zagon aplikacije
 
